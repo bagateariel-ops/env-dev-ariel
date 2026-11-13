@@ -19,4 +19,6 @@
 
 ## Branches
 
-...
+| Commande       | Ce qu'elle fait                   | Exemple            |
+| -------------- | --------------------------------- | ------------------ |
+| `git branch`   | Liste les branches de mon depot   | `git branch`       |
