@@ -9,4 +9,6 @@
 
 ## 2026-11-03 – Système pour le terminal
 
-- **Décision :** …
+- **Décision :** Publier notre depot local sur un depot distant 'github'.
+- **Autres possibilités** neant
+-**Raison** bonjourrrr
