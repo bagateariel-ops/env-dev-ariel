@@ -1,4 +1,4 @@
-# env-dev-ariel(B1 DEV, IFRAN)
+# env-dev-ariel - monenvironnement de développemen (B1 DEV, IFRAN)
 
 Environnement de développement de Ariel Bagaté – B1 DEV, IFRAN.
 
