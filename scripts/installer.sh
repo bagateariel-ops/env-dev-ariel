@@ -5,4 +5,5 @@ sudo apt install -y git tree htop nano
 curl -fsSL https://deb.nodesource.com/setup_lts.x -o /tmp/nodesource_setup.sh
 sudo bash /tmp/nodesource_setup.sh
 sudo apt install -y nodejs
+sudo apt install -y git tree htop nano iputils-ping dnsutils
 echo "=== Installation terminée ==="
