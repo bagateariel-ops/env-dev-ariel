@@ -32,6 +32,3 @@
 | Commande     | Ce qu'elle fait                 | Exemple      |
 | ------------ | ------------------------------- | ------------ |
 | `git branch` | Liste les branches de mon depot | `git branch` |
-
-## Astuce de ariel
-`git log --oneline --graph` dessine l'historique avec les branches.
