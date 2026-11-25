@@ -13,3 +13,7 @@ echo "tree :"
 tree --version
 echo
 echo "=== Fin de la vérification ==="
+echo "Python :"
+python3 --version
+echo "Accès à GitHub :"
+curl -sI https://github.com | head -n 1
