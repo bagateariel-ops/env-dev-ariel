@@ -68,3 +68,10 @@ Résultat attendu : une version pour Ubuntu, Git, Node.js, npm et tree.
 ## Historique
 
 Ce dossier est suivi avec Git depuis le sous-module 2.
+
+cat << 'EOF' >> README.md
+
+## Vérification
+
+Lancez `./scripts/verifier.sh` pour vérifier les réponses du serveur, les ports en écoute, la version de Python et l'accès à GitHub (`HTTP/2 200`).
+EOF
