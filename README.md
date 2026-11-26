@@ -51,7 +51,7 @@ Environnement de développement de Ariel Bagaté – B1 DEV, IFRAN.
 
 Lancer `./scripts/verifier.sh` dans Ubuntu.
 Résultat attendu : une version pour Ubuntu, Git, Node.js, npm et tree.
-Python et HTTP/2 200
+Lancez `./scripts/verifier.sh` pour vérifier les réponses du serveur, les ports en écoute, la version de Python et l'accès à GitHub (`HTTP/2 200`).
 
 ## Contenu du dossier
 
